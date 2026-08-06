@@ -1,0 +1,6 @@
+{
+  "name": "AVIORA - Plastic Surgery & Aesthetic Clinic",
+  "description": "Premium luxury plastic surgery and aesthetic clinic website showcasing world-class surgeons, advanced facilities, patient safety, and personalized aesthetic care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
